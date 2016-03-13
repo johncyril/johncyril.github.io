@@ -6,6 +6,12 @@
         <Folder name="blog">
             <File name="blog\index.html" />
         </Folder>
+        <Folder name="photos">
+            <File name="photos\index.markdown" />
+        </Folder>
+        <Folder name="food">
+            <File name="food\index.md" />
+        </Folder>
         <Folder name="_posts">
             <File name="_posts\2009-06-23-hello-world.md" />
             <File name="_posts\2009-06-27-john-cyril-hangs-here.md" />

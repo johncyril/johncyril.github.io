@@ -4,7 +4,8 @@ title: "About"
 date: 2009-10-01 21:43
 author: admin
 comments: true
-categories: []
+description: Here I'll say a few interesting things about myself..
+categories: [PAGE]
 tags: []
 ---
 Currently, I'm a student at King's College London. Would it surprise you to say I'm reading Computer Science?
