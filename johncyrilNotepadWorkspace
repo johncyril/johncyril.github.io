@@ -1,0 +1,62 @@
+<NotepadPlus>
+    <Project name="johncyril.com">
+        <File name="index.markdown" />
+        <File name="about.md" />
+        <File name="_config.yml" />
+        <Folder name="blog">
+            <File name="blog\index.html" />
+        </Folder>
+        <Folder name="_posts">
+            <File name="_posts\2009-06-23-hello-world.md" />
+            <File name="_posts\2009-06-27-john-cyril-hangs-here.md" />
+            <File name="_posts\2009-06-30-ubuntu.md" />
+            <File name="_posts\2009-07-03-fickle-much.md" />
+            <File name="_posts\2009-07-13-its-quite-simple-really.md" />
+            <File name="_posts\2009-07-29-heritage.md" />
+            <File name="_posts\2009-09-06-we-dont-take-domestic-tourism.md" />
+            <File name="_posts\2009-10-02-back-online.md" />
+            <File name="_posts\2009-10-02-why-not-to-eat-the-poison-apple.md" />
+            <File name="_posts\2009-10-18-hardware-lowdown-part-1-what-is-a-motherboard.md" />
+            <File name="_posts\2009-10-19-hardware-lowdown-part-2-hard-disks-made-easy.md" />
+            <File name="_posts\2009-10-27-the-hardware-lowdown-part-3-the-processor.md" />
+            <File name="_posts\2009-12-16-why-we-shall-fall-to-our-knees-and-worship-the-sun.md" />
+            <File name="_posts\2009-12-26-ba-humbug.md" />
+            <File name="_posts\2010-02-04-youre-just-not-good-enough.md" />
+            <File name="_posts\2010-02-10-buzzing-busy-bees.md" />
+            <File name="_posts\2010-03-06-reald-or-just-plain-gimmicky.md" />
+            <File name="_posts\2010-04-05-bit-by-bit.md" />
+            <File name="_posts\2010-04-15-right-place-wrong-anarchy.md" />
+            <File name="_posts\2010-04-20-ill-bet-all-that-plumage-on-a-pair-of-fours.md" />
+            <File name="_posts\2010-06-15-world-cup-fever-if-you-can-hear-it-that-is.md" />
+            <File name="_posts\2010-06-24-yanking-my-chain.md" />
+            <File name="_posts\2010-08-22-carpe-diem-no-thanks-tomorrow-will-do-just-fine.md" />
+            <File name="_posts\2010-09-25-gay-hippos-and-sexism.md" />
+            <File name="_posts\2010-10-09-tube-silence.md" />
+            <File name="_posts\2010-11-11-lost-in-translation.md" />
+            <File name="_posts\2010-11-15-yes-dorris-the-internet-has-cowboys-too.md" />
+            <File name="_posts\2010-11-28-tonight-simon-im-going-to-be-your-undertaker.md" />
+            <File name="_posts\2010-12-22-dont-get-shirty-with-me.md" />
+            <File name="_posts\2011-01-25-say-cheese.md" />
+            <File name="_posts\2011-01-29-a-prayer-for-the-one-i-love.md" />
+            <File name="_posts\2011-03-01-finding-goldilocks.md" />
+            <File name="_posts\2011-06-13-male-pattern-baldness.md" />
+            <File name="_posts\2011-11-21-finales.md" />
+            <File name="_posts\2012-01-12-diary-of-an-unseasoned-traveller.md" />
+        </Folder>
+        <Folder name="_layouts">
+            <File name="_layouts\default.html" />
+            <File name="_layouts\page.html" />
+            <File name="_layouts\post.html" />
+            <File name="_layouts\homepage.html" />
+        </Folder>
+        <Folder name="_includes">
+            <File name="_includes\footer.html" />
+            <File name="_includes\head.html" />
+            <File name="_includes\header.html" />
+            <File name="_includes\icon-github.html" />
+            <File name="_includes\icon-github.svg" />
+            <File name="_includes\icon-twitter.html" />
+            <File name="_includes\icon-twitter.svg" />
+        </Folder>
+    </Project>
+</NotepadPlus>
