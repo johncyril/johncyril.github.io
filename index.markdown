@@ -4,19 +4,25 @@ author: john
 tags: []
 ---
 
-<h1> Hello </h1>
+Hello 
+=====
 
 {{ site.description }}
 
-<div>
+
+
 {% for page in site.pages %}
 	
-	{% if page.title %}	
-		<h2> <a heref="{{ page.url | prepend: site.baseurl }}"> {{ page.title }} </a> </h2>
-		{{ page.description }}   		
-		
-	{% endif %}
-	<br>
+{% if page.title %}	
+## [{{ page.title }}]({{ page.url | prepend: site.baseurl }})
+
+{{ page.description }}   
+{% if page.byline %}
+##### {{ page.byline }} 
+{% endif %}
+
+{% endif %}
+
 
 {% endfor %}
-</div>
+
