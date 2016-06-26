@@ -14,7 +14,7 @@ It's responsible for doing all the "thinking", "talking" and "fetching" of infor
 
 <!--more-->
 
-[caption id="" align="alignright" width="300" caption="An early processor"]![An early processor](http://upload.wikimedia.org/wikipedia/commons/5/52/Intel_4004.jpg "early processor")[/caption]
+![An early processor](http://upload.wikimedia.org/wikipedia/commons/5/52/Intel_4004.jpg "early processor")
 
 ... But how do they work? To explain this, I need to first talk a bit about logic. Some of you may think of logic as a fairly trivial and boring part of day to day life... When it comes to computers however (or your <a href="http://en.wikipedia.org/wiki/Sudoku" target="blank">Sudoku</a> on the train), there is nothing else you can use. Computers certainly have no intuition... I'm not yet sure whether there's intuition in sudoku or not...
 

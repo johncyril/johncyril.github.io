@@ -7,7 +7,7 @@ comments: true
 categories: [Popular, Rants, Strange, Technology]
 tags: [apple, mac, os, poison, Snow White]
 ---
-[caption id="attachment_38" align="alignleft" width="300" caption="Don&#39;t do it Snow!"]![Don](http://blog.johncyril.com/wp-content/uploads/2009/10/snow-white-poison-apple-300x225.jpg "snow-white-poison-apple")[/caption]
+![Snow White poison apple](\images\snow-white-poison-apple.jpg "Don't do it Snow!"")
 
 When I was young, Snow White's demise was a red and shiny fruit, delivered by an old woman who lured her into eating it. She ate half and  told Snow  it was the finest of its kind.
 
@@ -19,8 +19,9 @@ I speak of course of Apple. Apple mac, Macintosh, mac... Whatever you'd like to 
 
 I won't really talk about the company's long eventful past. Nor will I talk about its CEO Steve Jobs, who according to my earlier simile is my evil step-father that wants to eat my heart to become the "fairest in the land".... You can <a href="http://en.wikipedia.org/wiki/Apple_Inc." target="blank">read up</a> on this if/when you please...
 
-For readers who know as much  about computers/Apple/Snow White, as I do about the workings of the female mind (for another time), a really quick summary:
-<p style="padding-left: 30px;">*Apple is mainly a computer and Operating system maker. If you read my previous post about [Ubuntu](http://blog.johncyril.com/?p=9), Mac OS is the one that "some people use". About 8% of computer users in the States to be precise. Both the computer and OS are sold together. They also make and sell the Apple iPod you must have at least seen before... Along with the iPhone you may have glimpsed on a London tube in zone 1 or the subway of Manhattan...*
+For readers who know as much  about computers/Apple/Snow White, as I do about the workings of the female mind (for another time), a really quick summary:  
+
+>*Apple is mainly a computer and Operating system maker. If you read my previous post about [Ubuntu](http://blog.johncyril.com/?p=9), Mac OS is the one that "some people use". About 8% of computer users in the States to be precise. Both the computer and OS are sold together. They also make and sell the Apple iPod you must have at least seen before... Along with the iPhone you may have glimpsed on a London tube in zone 1 or the subway of Manhattan...*
 
 You could call it designer computing. Apple is pretty much a label. So much so, that you'll struggle to find an "about us" page on their site. What's it about? Where did it all start? Who cares! - look it's shiny and cool. Oh and it's APPLE! There really is a stereotype for the mac end - user. A friend linked me to an amusing <a href="http://www.guardian.co.uk/commentisfree/2009/sep/28/charlie-brooker-microsoft-mac-windows" target="blank">Guardian article</a> recently, that gives you an idea of this stereotype much better than I ever could...
 

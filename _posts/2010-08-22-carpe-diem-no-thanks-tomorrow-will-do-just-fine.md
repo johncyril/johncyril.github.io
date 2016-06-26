@@ -17,7 +17,7 @@ Well. Seize the day.
 
 I now pause my post to highlight the fact that this will not be a lengthy reading of "fortune cookie snippets"
 
-[caption id="attachment_425" align="alignleft" width="230" caption="Mind the doors... Â© Michael Napolitano"]![](http://blog.johncyril.com/wp-content/uploads/2010/08/panda-300x256.jpg "Mind the Doors!")[/caption]
+![Mind the doors](\images\Mind-the-doors.jpg "Mind the doors... © Michael Napolitano"")
 
 These words come from a poet, Quintus Flaccus. Quintus Horatius Flaccus.
 Easy to see where the ginger guy from CSI Miami was given his name... What inspired and learned writers CBS employ!

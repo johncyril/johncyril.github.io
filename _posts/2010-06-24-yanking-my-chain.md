@@ -12,8 +12,7 @@ All these, in addition to my worship of formula one, have probably played their 
 
 <!--more-->Nevertheless, being a "racer" in a <a href="http://en.wikipedia.org/wiki/Fiat_Seicento" target="_blank">Fiat Seicento</a> S with a 1.1 engine and about the same BHP as Victoria Beckham's weight in kilograms isn't exactly fast. More.. lots of noise and too much time for people to look at you and think "prick" before you actually get anywhere. If you think of a lion on a rolling, wooden plank with the Blue Peter turtle pulling it (is that thing even dead yet?) - you're on the right lines...
 
-[caption id="attachment_226" align="alignright" width="300" caption="Inadequete? Or is the other guy comphensating I wonder..."]<a href="http://blog.johncyril.com/wp-content/uploads/2010/06/IMG_0760.jpg">![](http://blog.johncyril.com/wp-content/uploads/2010/06/IMG_0760-300x225.jpg "IMG_0760")</a>[/caption]
-
+![My Beloved Fiat](\images\Fiat.jpg "Inadequete? Or is the other guy comphensating I wonder...")
 Now. As a motorist, I detest nothing more than some idiot on a bike in the middle of the road where I can't overtake them. Those of you who drive, are nodding in agreement. To those of you who think less of me I would like to say this; The only reason you have not been hit by a car is simply because we are too scared to do so.
 Two reasons:
 

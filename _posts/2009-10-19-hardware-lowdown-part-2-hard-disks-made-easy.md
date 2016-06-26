@@ -14,7 +14,7 @@ There are several different types of said memory and many ways to categorise the
 
 <!--more-->
 
-[caption id="" align="alignleft" width="289" caption="Closeup of a hard disk (taken from wiki)"]<a href="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hard_disk_platters_and_head.jpg/800px-Hard_disk_platters_and_head.jpg">![](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hard_disk_platters_and_head.jpg/800px-Hard_disk_platters_and_head.jpg)</a>[/caption]
+<a href="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hard_disk_platters_and_head.jpg/800px-Hard_disk_platters_and_head.jpg">![](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hard_disk_platters_and_head.jpg/800px-Hard_disk_platters_and_head.jpg "Closeup of a hard disk (taken from wiki)")</a>
 
 The first is called **temporary**, also known as [RAM](http://en.wikipedia.org/wiki/Random-access_memory). Think of this as your short term memory... Ever revised and crammed so much information for an exam before? Only to  forget everything you spent weeks trying to retain, the moment you've stepped out of the exam hall? If you don't need the information to hand, over time you'll forget more of it. I for one, have lost the ability to <a href="http://en.wikipedia.org/wiki/Differentiation_of_trigonometric_functions" target="blank">differentiate trigonometric functions</a>... Because its useless to me...
 Computers behave in the same way. They remember the recent programs you opened, the recent songs you played etc so can do the recent stuff quickest... Try opening photoshop for the first time since you switched your PC on, and again 10 or so minutes later. You'll notice..

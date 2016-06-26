@@ -13,7 +13,7 @@ As a person, one of my major traits is my lack of spontaneity when buying someth
 
 So I went into Jessops one day for a speculative "feeler" of the camera market. Naturally, I was approached by a very crazy, very talkative, very beautiful girl who just so happened to have a dark, cynical sense of humour; heart-sinking smile; and was in no way, shape or form after some commission. ... Â I live in hope...
 
-[caption id="attachment_443" align="alignleft" width="300" caption="My 50mm prime lens"]![](http://blog.johncyril.com/wp-content/uploads/2011/01/DSC_1358-300x200.jpg "DSC_1358")[/caption]
+![My 50mm prime lens](\images\50mmPrime.jpg "My 50mm prime lens")
 
 We did the grand tour. All cannon cameras, of course. I expressed gratitude for her time, smiled excessively and left the store before I blurted out eleven random integers that could have quite possibly been my phone number..
 

@@ -20,7 +20,7 @@ Nobody  talks. Even couples sit there holding hands or sitting on laps in  silen
 
 Why? Well, in this city, we're  very weary of strangers. It takes the most incredible circumstances  like a 15 minute delay or a tramp that hasn't washed since Christmas, to  create a 2% chance Â somebody around you will simply raise their  eyebrows in empathetic frustration.
 
-[caption id="attachment_297" align="alignright" width="300" caption="Submerging into a station with friends"]<a href="http://johncyril.com/wp-content/uploads/2010/10/DSC_0125.jpg">![](http://blog.johncyril.com/wp-content/uploads/2010/10/DSC_0125-300x200.jpg "DSC_0125")</a>[/caption]
+![Submerging into a station with friends](\images\DescendingToTube.jpg "Submerging into a station with friends")
 
 If you're travelling with a friend,  you'll be very wary of a quiet carriage full of people very eager to  listen to your gossip.
 

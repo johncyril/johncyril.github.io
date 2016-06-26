@@ -22,7 +22,7 @@ Worse still is graduation; where my King's College London gown, designed by the 
 Solutions? No cure and I'm not getting some silly "hair transplant" like the nation's new <a href="http://www.bbc.co.uk/news/uk-13654209" target="_blank">favourite British Bulldog</a>. I have two options:
 
 
-*   Get a Â£30 for a month, for life subscription for a load of drugs that slow it down
+*   Get a £30 for a month, for life subscription for a load of drugs that slow it down
 *   Mix urine and potato skins and bathe my head in the solution.
 Not that desperate. Not that rich. My mate Fran told me about the latter some weeks ago. Just in case I have a "bad day" and go slightly crazy, I haven't looked it up. I don't want to know.
 

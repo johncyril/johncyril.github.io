@@ -18,7 +18,7 @@ In all fairness, I don't particularly mind the sport... I've never been particul
 
 <!--more-->Every leap year, lots of countries around the world play it out in a tournament at a chosen country. This year it's South Africa and you're quite frankly an idiot if you haven't heard about anything world cup related yet.
 
-[caption id="" align="alignright" width="356" caption="A vuvuzela - The most delicate of musical instruments..."]![](http://1.bp.blogspot.com/_CEGh0PXcbU8/SkJKX2xZJhI/AAAAAAAABCM/6OFTIpN5qiU/s400/Eish-Vuvuzela-Just-Football.jpg "Vuvuzela")[/caption]
+![vuvuzela](http://1.bp.blogspot.com/_CEGh0PXcbU8/SkJKX2xZJhI/AAAAAAAABCM/6OFTIpN5qiU/s400/Eish-Vuvuzela-Just-Football.jpg "A vuvuzela - The most delicate of musical instruments...")
 
 What I can't stand is how the whole nation seems to hold its breath... As if it's nerve-racking. The suspense is actually killing the press (yay!). We have no idea what the outcome will be! Maybe we'll win it this year?
 
