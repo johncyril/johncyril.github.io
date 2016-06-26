@@ -107,10 +107,30 @@
     margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
-.social-media-list {
+.contact-list {
+    margin: 5px 0;
     list-style: none;
     margin-left: 0;
+}
+.social-media-list {
+  margin: 30px 0;
+  text-align: center;
+  @include media-query($on-palm) {
+    margin: 15px 0;
+  }
+  li {
+    display: inline-block;
+    margin: 0 15px;
+    svg {
+      width: 40px;
+      height: 40px;
+    }
+    &:hover {
+      svg path {
+        fill: $brand-color;
+      }
+    }
+  }
 }
 
 .footer-col-wrapper {

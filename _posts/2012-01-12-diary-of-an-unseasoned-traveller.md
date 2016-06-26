@@ -22,4 +22,4 @@ You will intentionally ignore the 6ft5" gentleman who has spread his belongings 
 This is my second trip abroad on my own. One of many that I hope will follow. And, though probably I cannot help it, this is most definitely not the way forward. I certainly wish for the day when I can happily afford the JD, coke and peanuts treatment with consistency and nonchalance.
 
 Alas, today is not that day. And as that famous T-shirt worn by busty bimbos goes; tomorrow doesn't look good either...
-Nevertheless this, among most things in life  is simply a means to an end. And what an end its proving to be..
+Nevertheless this, among most things in life  is simply a means to an end. And what an end it's proving to be..
