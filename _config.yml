@@ -22,3 +22,6 @@ linkedin_username: jcyril
 
 # Build settings
 markdown: kramdown
+collections: 
+ recipes:
+  output: true
