@@ -17,9 +17,9 @@ Typically served with some onion fried rice (which we used to nickname “fish-r
 
 That was, until I unwrapped the bag to find my lovely dinner wasn’t gutted or scaled. Nightmare. I really didn’t feel like gutting or scaling a fish tonight. Admittedly, I’ve not done it before but I do know exactly what to do and the damn mess scales make.  
 
-SO, I did what all self-respecting, independent, highly eligible bachelors in their mid-twenties would do: I called my mummy and had a bit of a moan. 
-> “It’s ok habibi.” 
-Came the words of reassurance. 
+SO, I did what all self-respecting, independent, highly eligible bachelors in their mid-twenties would do: I called my mummy and had a bit of a moan.  
+> “It’s ok habibi.”  
+Came the words of reassurance.  
 > “I have very easy solution for you.”  
 Here were the instructions, helpfully translated from Arabic.   
 Grill the fish on a hotplate, exactly as it is until each side is a deep brown, possibly even black.  
