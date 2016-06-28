@@ -37,7 +37,7 @@ Being liberal with the seasoning makes sure it seeps through to the flesh.
 
 ![Grilled Seabass, being seasoned!](/images/recipes/seabassSeasoned.jpg "Grilled Seabass, being seasoned!")
 
-I used baking parchment. Lo and behold, a seriously delicious, succulent, perfectly cooked seabass. No scaling required and the innards were simple enough to brush away after cooking. Zero prep, totally effortless and while my meal-to-be rested I took a shower.  
+I used baking parchment. Made sure to give the top and belly a once over too. Lo and behold, a seriously delicious, succulent, perfectly cooked seabass. No scaling required and the innards were simple enough to brush away after cooking. Zero prep, totally effortless and while my meal-to-be rested I took a shower.  
 
 This method also doesn’t produce the usual fumes of grilling, baking or shallow frying. Open a few windows, leave the extractor fan running and it’s like nothing ever happened.  
 Do make sure to put away any laundry airing in an adjacent living room though, just in case (haven’t we all made that mistake at least once?).  
@@ -47,4 +47,4 @@ I like to top and tail my fish before plating. Serve with some cherry tomatoes a
 
 In all, a triumph. Successful dinner clinched from the jaws of an irritating and messy supper. Moral of the story? Don’t assume; always ask the fishmonger to gut and scale your fish. That said, I might just be cooking it this way for a while to come. 
 
-![Seabass, pated](/images/recipes/seabassPlated.jpg "Seabass plated")
+![Seabass, plated](/images/recipes/seabassPlated.jpg "Seabass plated")
