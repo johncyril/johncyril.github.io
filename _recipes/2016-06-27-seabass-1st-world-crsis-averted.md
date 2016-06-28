@@ -10,7 +10,7 @@ tags: [Recipes]
 
 On the way back from Monday evening training, I mulled over what I would be having for dinner. I’m making a concerted effort of late to eat well at the end of the day but do so healthily and avoid those pesky “late-night-carbs” where possible.  
 
-Fortunately, over the weekend, I had the foresight to know that I’d be feeling reasonably tired and apathetic to the notion of cooking a big meal after the gym. So I’d picked up a whole seabass at the shops. I don’t cook fish often enough, but I love it. And it featured heavily on the dinner table when we were growing up at home.  
+Fortunately, over the weekend, I had the foresight to know that I’d be feeling reasonably tired and apathetic to the notion of cooking a big meal after the gym. So I’d picked up a whole seabass at the shops. I don’t cook fish often enough, but I love it. And it featured often on the dinner table when we were growing up at home.  
 
 The plan was as follows: Freshly squeezed juice of a lime, some cumin, minced garlic, salt and pepper to act as a marinade. Dust with a little flour and shallow fry, flipping over once a side turns an even dark brown.  
 Typically served with some onion fried rice (which we used to nickname “fish-rice”) and there you have it; a piece of childhood nostalgia. No rice tonight – remember those late night carbs! – but otherwise the coastal Egyptian’s dinner of champions..  
