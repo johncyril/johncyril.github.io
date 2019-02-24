@@ -19,7 +19,7 @@ I speak of course of Apple. Apple mac, Macintosh, mac... Whatever you'd like to 
 
 I won't really talk about the company's long eventful past. Nor will I talk about its CEO Steve Jobs, who according to my earlier simile is my evil step-father that wants to eat my heart to become the "fairest in the land".... You can <a href="http://en.wikipedia.org/wiki/Apple_Inc." target="blank">read up</a> on this if/when you please...
 
-For readers who know as much  about computers/Apple/Snow White, as I do about the workings of the female mind (for another time), a really quick summary:  
+For readers who know as much about computers/Apple/Snow White, as I do about the workings of the female mind (for another time), a really quick summary:  
 
 >*Apple is mainly a computer and Operating system maker. If you read my previous post about [Ubuntu](http://blog.johncyril.com/?p=9), Mac OS is the one that "some people use". About 8% of computer users in the States to be precise. Both the computer and OS are sold together. They also make and sell the Apple iPod you must have at least seen before... Along with the iPhone you may have glimpsed on a London tube in zone 1 or the subway of Manhattan...*
 
