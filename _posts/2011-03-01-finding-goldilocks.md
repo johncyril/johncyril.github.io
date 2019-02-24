@@ -26,9 +26,9 @@ As a computer scientist that sells suitcases, I'm  constantly infuriated by the 
 "ohh you know.. Not too big, not too small"..*
 The vagueness doesn't annoy me nearly as much as the assumption that I know *EXACTLY *what they mean..
 
-That said, I had a lecturer in first-year who  taught us programming concepts and made a big fuss about what he called  "the Goldilocks invariant": not too fixed, not too loose. There's  actually a good reason for seeking this kind of strictly vague, static  property within a method, however I don't really wish to bore you..
+That said, I had a lecturer in first-year who  taught us programming concepts and made a big fuss about what he called  "the Goldilocks invariant": not too fixed, not too loose. There's actually a good reason for seeking this kind of strictly vague, static property within a method, however I don't really wish to bore you..
 
-But we're like this about the amount of spice in  our food, how we describe the weather in spring.. Even the ideal  partner, that we've probably thought about for ages, gets this  description consisting of a negation of two opposing, yet equally  relative values.. What exactly is "not too hot"? What exactly is "not  too nice"?
+But we're like this about the amount of spice in our food, how we describe the weather in spring.. Even the ideal  partner, that we've probably thought about for ages, gets this  description consisting of a negation of two opposing, yet equally  relative values.. What exactly is "not too hot"? What exactly is "not  too nice"?
 
 Point is, it doesn't seem to matter. If we think  something is too much of an extreme we just do a Goldilocks and roll on  the next day/curry/suitcase/poor soul for the same kind of scrutiny,  without much reflection on exactly what we're after. We just know what  we don't want.
 

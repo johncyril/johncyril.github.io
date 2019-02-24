@@ -12,7 +12,7 @@ tags: [calls, city blonde, conversations, London, new york, phone signal, tube, 
 >"Hello Simon, I'm on the train at Bond Street..."
 
 
-I know. An impossible phone conversation. For those of you who don't  use London's "rapid transit" network, allow me to explain: Just  under half the stations are underground, and there is no signal what-so-ever  below the surface. Bond street happens to be one such station.
+I know. An impossible phone conversation. For those of you who don't use London's "rapid transit" network, allow me to explain: Just  under half the stations are underground, and there is no signal what-so-ever  below the surface. Bond street happens to be one such station.
 
 The  way things are today, should you go through a tunnel, you will hear  nothing but the belligerent squawking of train carriages.. "The Tube",  as we affectionately call it here, is a bizarre place.
 

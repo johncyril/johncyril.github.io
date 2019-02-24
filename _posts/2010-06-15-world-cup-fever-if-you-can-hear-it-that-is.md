@@ -12,7 +12,8 @@ Ah yes. The hiatus has come to an end. It's been nearly two months since my last
 
 *   I have had exams
 *   After my exams, all the interesting (mostly political) stuff had finished
-*   Nothing has pissed me off and I haven't been feeling particularly sarky
+*   Nothing has pissed me off and I haven't been feeling particularly sarky.  
+
 So, on to the title of this post. It stems from my love / hate relationship with football since an early age.
 In all fairness, I don't particularly mind the sport... I've never been particularly good, and as the fat kid in school, I was always shoved in goal because of my tendency to make "epic saves"... I realised much later on that this was just simple probability...
 
