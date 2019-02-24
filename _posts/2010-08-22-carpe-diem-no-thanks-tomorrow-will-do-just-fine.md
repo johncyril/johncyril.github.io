@@ -34,9 +34,6 @@ I think Horace woke up on the "jaded cynic" side of bed one morning BC.
 
 For some, the future is all that they have.. The act of just looking forward, let alone a master plan, gives them the will to live.
 
-In contrast to the title of this post, I'm a yesterday kind of guy. I don't dwell... much.
-I  remember. I smile. I kick myself. I don't regret doing anything; at  times I regret *not* having done... Can't have one without the other? I'm in  the market for a way and probably always will be.. That's about as far  forward as *I'm* willing to look..
+We all prefer our own moments in time. As such, we'll prefer certain tenses over others throughout our spoken lives.
 
-We all prefer our own moments in time. As such, we'll prefer certain cases over others throughout our spoken lives.
-
-Learner Trooper or Dreamer? Take your pick. This train is ready to depart...
+Learner, Trooper or Dreamer? Take your pick. This train is ready to depart...

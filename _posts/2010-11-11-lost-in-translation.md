@@ -59,4 +59,4 @@ You're thinking "what??!" right? The closest English one I know to that is:
 
 Though they essentially mean the same thing, you can see what a bloody nightmare it is to get the message across sometimes.. You have to know both languages, cultures, references... Lead a bilingual life if you will. There are very few people who have this skill - I'll freely admit that I don't.. Not really.. Although I speak both fluently, I'm not culturally immersed enough in either.
 
-You can imagine how easy it is to get the wrong end of the stick and howÂ  the literal interpretation of language, without cultural or even generational adaptation, is the cause of so many skewed views in today's global world.
+You can imagine how easy it is to get the wrong end of the stick and how the literal interpretation of language, without cultural or even generational adaptation, is the cause of so many skewed views in today's global world.

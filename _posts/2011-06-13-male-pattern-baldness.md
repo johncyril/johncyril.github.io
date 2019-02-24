@@ -23,11 +23,7 @@ Solutions? No cure and I'm not getting some silly "hair transplant" like the nat
 
 
 *   Get a £30 for a month, for life subscription for a load of drugs that slow it down
-*   Mix urine and potato skins and bathe my head in the solution.
+*   Mix urine and potato skins and bathe my head in the solution.  
 Not that desperate. Not that rich. My mate Fran told me about the latter some weeks ago. Just in case I have a "bad day" and go slightly crazy, I haven't looked it up. I don't want to know.
-
-You know there's something wrong when you're on a bus and get caught checking out some cute girl a little bit older than yourself, only to be met by a "you dirty old pervert" glare...
-
-Hmmm.. Maybe that potato skin thing is worth a shot, after all...
 
 Nevertheless I still have some time to go before my decision will be between letting genetics continue to take its course or doing a <a href="http://en.wikipedia.org/wiki/Jean-Luc_Picard" target="_blank">Jean-Luc Picard</a> of the Starship Enterprise. For now I just have to make do with the nicknames my benevolent friends give me. 'Baldy' over 'Slaphead' any day.

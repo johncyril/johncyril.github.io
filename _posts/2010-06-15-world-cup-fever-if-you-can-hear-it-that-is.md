@@ -24,9 +24,9 @@ What I can't stand is how the whole nation seems to hold its breath... As if it'
 
 No. We won't. We won 44 years ago. It's been 11 world cups. Get real.
 
-We do not have a fantastic and world class team. We have lots of decent players, a couple of wonderful ones and that's just about it. There isn't any magic. Nada. We are not a team brimming with talent. Testament to this is our premier league. A lot of familiar faces and names seem to be commented on during the games England *isn't* playing in this tournament..
+We do not have a fantastic and world class team. We have lots of decent players, a couple of wonderful ones and that's just about it. There isn't any magic. Nada. We are not a team brimming with talent. Testament to this is our premier league. A lot of familiar faces and names seem to be commented on during the games England *isn't* playing in during this tournament..
 
-A great team is one that doesn't have the papers kicking and screaming the moment a "star" player is injured. Nor does it need to have its collective wives and partners banned from contact with them. Rumour has it Capello has banned his men from hitting a home run until they're knocked out... What I'd pay to hear him say that in English...
+A great team is one that doesn't have the papers kicking and screaming the moment a "star" player is injured. Nor does it need to have its collective wives and partners banned from contact with them. Rumour has it Capello has banned his men from hitting a home run until they're knocked out... What I'd pay to hear him say that...
 
 Dreaming aside, the BBC alone has had 545 complaints regarding its coverage. Well, namely the infamous "vuvuzela" that has had me personally wanting to rip my ears off...
 

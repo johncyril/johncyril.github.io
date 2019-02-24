@@ -11,7 +11,7 @@ I think it's about time that I made a shameless plug. During the summer, (that's
 
 As a person, one of my major traits is my lack of spontaneity when buying something. I research whatever I'm buying to buggery. So much so, that I become a bit of an expert on whatever is currently available (price, pros and cons, etc). Obviously in my line of obsessions that is, technology, this knowledge fades away with time because things always move on.
 
-So I went into Jessops one day for a speculative "feeler" of the camera market. Naturally, I was approached by a very crazy, very talkative, very beautiful girl who just so happened to have a dark, cynical sense of humour; heart-sinking smile; and was in no way, shape or form after some commission. ... Â I live in hope...
+So I went into Jessops one day for a speculative "feeler" of the camera market. Naturally, I was approached by a very crazy, very talkative, very beautiful girl who just so happened to have a dark, cynical sense of humour; heart-sinking smile; and was in no way, shape or form after some commission. ...I live in hope...
 
 ![My 50mm prime lens](\images\50mmPrime.jpg "My 50mm prime lens")
 
@@ -26,5 +26,3 @@ After 2 weeks of full time work as an office temp and detailed research <span st
 With no exaggeration, I've never been on a learning curve that's this much fun. And with equally little exaggeration: It's a damn steep learning curve. There are so many settings, so much more to take into consideration and a requirement for really steady hands. Once you get all that stuff right, the results can be genuinely impressive.
 
 Here's the plug: I have a photo-blog that documents the few non-blurry, half-decent, possibly lucky photos I've taken: <a href="http://photos.johncyril.com" target="_blank">http://photos.johncyril.com</a> You can subscribe to the <a href="http://blog.johncyril.com/?p=15" target="_blank">RSS feed </a>or check back every now and then to see how I'm getting along.
-
-So there it is. If you ever want to buy something, go find aÂ  stunning lady to give you some sarcastic and rational advice about it. Simples.

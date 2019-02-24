@@ -18,8 +18,7 @@ Two reasons:
 
 
 *   You will always win in court (and end up suing our much more comfortable asses)
-*   There is a serious risk of you dying (where your families will end up suing our asses and inmates will want to 'have' them)
-If the law and public opinion was to side with people like myself *and* if we could guarantee you'd only get seriously hurt - not killed, you would all be off a main road within 30 seconds. **fact.**
+*   There is a serious risk of you dying (where your families will end up suing our asses).  
 
 Aggravation aside, it's just plain dangerous. Cycling up a narrow hill with a 20 degree gradient and one lane is asking for trouble... Needless to say I yelled my lungs off at PC Plod for doing just that on my way to work last week.. Yes, that's right.. Even the metropolitan police in their infinite wisdom cannot ride their uniform bikes on a cycle lane or dismount and use the pavement when it's too unsafe.
 

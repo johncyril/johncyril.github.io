@@ -34,6 +34,6 @@ Take a look at the forums and you'll realise they're not just hot air - they're 
 >"Bring your boxes, laptops and ethernet cables to 365 Brixton Road. London. Install and configure GNU/BLAG Linux with help from some friendly geeks. Dual booting? No problem? Having some trouble with wireless cards? We'll look into it."
 
 
-It's difficult to say how strong the following is. But it's even stretched as far as <a href="http://forums.blagblagblag.org/viewtopic.php?t=5055" target="_self">Austria</a>!Â   It just goes to show that even in the most unlikely of places, what you least expect to find actually exists.
+It's difficult to say how strong the following is. But it's even stretched as far as <a href="http://forums.blagblagblag.org/viewtopic.php?t=5055" target="_self">Austria</a>!I t just goes to show that even in the most unlikely of places, what you least expect to find actually exists.
 
 I suppose using that logic, a Tory leader capable and worthy of running the country may just emerge one day..
