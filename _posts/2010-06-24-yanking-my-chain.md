@@ -16,7 +16,6 @@ All these, in addition to my worship of formula one, have probably played their 
 Now. As a motorist, I detest nothing more than some idiot on a bike in the middle of the road where I can't overtake them. Those of you who drive, are nodding in agreement. To those of you who think less of me I would like to say this; The only reason you have not been hit by a car is simply because we are too scared to do so.
 Two reasons:
 
-
 *   You will always win in court (and end up suing our much more comfortable asses)
 *   There is a serious risk of you dying (where your families will end up suing our asses).  
 

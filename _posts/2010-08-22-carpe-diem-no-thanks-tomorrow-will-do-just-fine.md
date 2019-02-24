@@ -24,15 +24,16 @@ Easy to see where the ginger guy from CSI Miami was given his name... What inspi
 
 Anyway back to the Romans. This Flaccus guy is commonly known as Horace. Because the English speaking world has a general distaste for pronouncing anything outside it's comfortable phonetic pallet...
 
-<!--more-->So Horace wrote a book. Well actually 4. Odes. In today's "John does Latin poetry", we shall look at book 1: poem 11..* "Tu ne quaesieris*" which means "Don't ask". Clearly Horace was a man that knew how to be fed up...
+<!--more-->So Horace wrote a book. Well actually 4. Odes. In today's "John does Latin poetry", we shall look at book 1: poem 11..  *"Tu ne quaesieris"* which means "Don't ask". Clearly Horace was a man that knew how to be fed up...
 
-You can look up the poem yourself. It's addressed to some woman worrying about her future.. Or what the future may hold in general. Basically he tells her off.. making the point that it is forbidden to know our destiny and dealing her the sane advice; *"be wise, strain the wine, and scale back your long hopes.."*
+You can look up the poem yourself. It's addressed to some woman worrying about her future.. Or what the future may hold in general. Basically he tells her off.. making the point that it is forbidden to know our destiny and dealing her the sane advice; "*be wise, strain the wine, and scale back your long hopes.."*
 
 Right. So: Don't do anything stupid, polish off a bottle or two of red, and for the sake of all things good and holy; don't plan too far in advance..
 
 I think Horace woke up on the "jaded cynic" side of bed one morning BC.
 
 For some, the future is all that they have.. The act of just looking forward, let alone a master plan, gives them the will to live.
+I'm more of a look back and learn kind of guy.
 
 We all prefer our own moments in time. As such, we'll prefer certain tenses over others throughout our spoken lives.
 

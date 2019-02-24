@@ -24,6 +24,4 @@ Why? Well, in this city, we're  very weary of strangers. It takes the most incre
 
 If you're travelling with a friend,  you'll be very wary of a quiet carriage full of people very eager to  listen to your gossip.
 
-So. tube scenario over? No, because for half the time, the tube runs over ground. Phone calls. It's not so quiet outside of the central zones. People are talking. The faint whisper of one-sided chatter reassures your heart that you are indeed among other humans. No terminators here today, JC.
-
 Watch this space. London is currently racing New York to become the first city that installs signal in underground stations. Over time this will extend to tunnels or maybe even the tubes themselves. At the moment, Mayor Boris Johnson wants the telecoms providers to pay the price. We'll see how that works.. Even if Londoners help out, the idea could be so expensive it falls flat on its face.
