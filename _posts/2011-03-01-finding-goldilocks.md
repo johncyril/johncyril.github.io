@@ -30,6 +30,6 @@ That said, I had a lecturer in first-year who  taught us programming concepts an
 
 But we're like this about the amount of spice in our food, how we describe the weather in spring.. Even the ideal  partner, that we've probably thought about for ages, gets this  description consisting of a negation of two opposing, yet equally  relative values.. What exactly is "not too hot"? What exactly is "not  too nice"?
 
-Point is, it doesn't seem to matter. If we think  something is too much of an extreme we just do a Goldilocks and roll on  the next day/curry/suitcase/poor soul for the same kind of scrutiny,  without much reflection on exactly what we're after. We just know what  we don't want.
+Point is, it doesn't seem to matter. If we think  something is too much of an extreme we just do a Goldilocks and roll on the next day/curry/suitcase/poor soul for the same kind of scrutiny,  without much reflection on exactly what we're after. We just know what  we don't want.
 
 Maybe we're just so hell-bent over finding  Goldilocks (through exclusion), we lose sight of what a fat, lazy, picky  old woman she really was...
