@@ -11,14 +11,15 @@ byline: Probably not worth your time should you dislike the idea of eating anyth
   <h1 class="page-heading">Recipes</h1>
 
   <ul class="post-list">
-    {% for recipe in site.recipes %}
+    {% for recipe in site.recipes reversed%}
       <li>
         <span class="post-meta">{{ recipe.date | date: "%b %-d, %Y" }}</span>
 		<h2>
           <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>
         </h2>
-		{{ recipe.excerpt }}
-      </li>
+		{{ recipe.excerpt }}		
+		<img src="{{ site.baseurl }}{{ recipe.preview-image }}" width="300" />
+        </li>
     {% endfor %}
   </ul>
 

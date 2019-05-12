@@ -6,6 +6,7 @@ author: john
 comments: true
 categories: [Recipes]
 tags: [Recipes]
+preview-image: /images/recipes/seabassSeasoned.jpg
 ---
 
 On the way back from Monday evening training, I mulled over what I would be having for dinner. I’m making a concerted effort of late to eat well at the end of the day but do so healthily and avoid those pesky “late-night-carbs” where possible.  
