@@ -10,7 +10,7 @@ title: Twelve Strings
 # email: john [at] johncyril [dot] com
 description: > # this means to ignore newlines until "baseurl:"
   Musings, food reviews, recipes, rants, photos, code snippets - maybe even some recorded music!
-  Who knows? All I promise is that *I* find it interesting.. or amusing.. or writing it is nursing my tortured soul.. Your mileage will likely vary.
+  Who knows? All I promise is that *I* find it somewhat interesting.. or amusing.. or writing it is nursing my tortured soul.. Your mileage will likely vary.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://johncyril.com" # the base hostname & protocol for your site
 twitter_username: johncyril

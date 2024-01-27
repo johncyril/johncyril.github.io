@@ -15,4 +15,4 @@ It may not sound glamarous, but flogging suitcases to the public of Kingston-upo
 
 In the not too distant future, (i.e next year) I'll hopefully be working as a Technology Analyst for an investment bank. How about that for going up in the world?
 
-The website/blog has been an idea for a while... I hope you find at least *some *of it useful or mildly entertaining... Any requests for posts or death threats can be sent to john(at)johncyril(dot)com and i'll do my best to accommodate or avoid you altogether.
+The website/blog has been an idea for a while... I hope you find at least *some *of it useful or mildly entertaining... 
